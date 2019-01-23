@@ -7,5 +7,5 @@ Task2 is about visual graphics in Matlab
 
 Task3 incudes FFT algorithm in one dimention case
 
-Task4 includes numerc solving of differential equation with FFT algorithm and meeting with complex math in MatLab. Also it contains C++ pieces to improve the executing speed of programs
+Task4 includes numerc solving of differential equation with FFT algorithm and meeting with complex math in MatLab. Also it contains C pieces to improve the executing speed of programs
  
