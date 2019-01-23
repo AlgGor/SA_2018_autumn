@@ -1,8 +1,6 @@
 # Practice-SA-2018
 Tasks in the university written in Matlab.
-
 Task1 includes basic functions of language
-
 Task2 is about visual graphics in Matlab
 
 Task3 incudes FFT algorithm in one dimention case
